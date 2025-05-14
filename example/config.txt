@@ -1,0 +1,2 @@
+Prefix plugins/RVM/example/
+Plugin RVM inputfile parameters.train.txt outputfile output.rds
